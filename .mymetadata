@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="XXDoll"
+  id="myeclipse.1532482421444"
+  context-root="/XXDoll"
+  j2ee-spec="6.0"
+  archive="XXDoll.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
